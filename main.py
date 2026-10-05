@@ -33,3 +33,18 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+print("Made by Caine Nelson")
+BANNER = """
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+"""
+
+print(BANNER)
+print("CS 1430  |  Introduction to Python  |  UW-Platteville")
